@@ -1,6 +1,7 @@
 # Link Opener made with Rust's FLTK binding
 
 ## Download exe from repository
+<a  align=Center href="web.exe">Download The Exe</a>
 
 
 This is a GUI made with Rust's FLTK library.
