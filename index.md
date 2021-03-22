@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Link Opener made with Rust's FLTK binding
 
-You can use the [editor on GitHub](https://github.com/Saad-py/Rust-WebSearch-GUI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a  align=Center href="web.exe">Download The Exe</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is a GUI made with Rust's FLTK library.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ FLTK is one of the best easiest libraries for GUI Rust. Although it will be had if you are a beginner at Rust. For any issue regarding the program create an issue and if you have a problem then go over to the Rust Forum.
 
-```markdown
-Syntax highlighted code block
+        The code is commented for those who understand Rust code. If you cannot understand it you can check out the Executable file in .exe folder
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Saad-py/Rust-WebSearch-GUI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact by Creating an issue
